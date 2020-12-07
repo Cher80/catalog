@@ -1,0 +1,158 @@
+{
+  "data": {
+    "text": "Мы собрали и протестировали по-настоящему полезные приложения для родителей и самые интересные игры для детей.",
+    "feedback": "https://app.detmir.ru/page15452105.html",
+    "franchises": [
+      {
+        "franchise": "Барбоскины",
+        "image": "https://i.postimg.cc/6pP2Hssf/1.png"
+      },
+      {
+        "franchise": "Ми-ми-мишки",
+        "image": "https://i.postimg.cc/t4sGNwNb/image.png"
+      },
+      {
+        "franchise": "Маша и медведь",
+        "image": "https://i.postimg.cc/Bv1s4kjp/image.png"
+      },
+      {
+        "franchise": "Фиксики",
+        "image": "https://i.postimg.cc/DwR0rqsC/image.png"
+      },
+      {
+        "franchise": "Грузовичок Лева",
+        "image": "https://i.postimg.cc/T1c5QpGK/image.png"
+      }
+    ],
+    "categories": [
+      {
+        "title": "Беременность",
+        "available": true,
+        "category": "pregnancy",
+        "colour": "#C6A5E3",
+        "items": [
+          {
+            "title": "Календарь беременности",
+            "image": "https://i.postimg.cc/7hSGL4Vn/image.png",
+            "description": "Удобный помощник для будущей мамы, счетчик схваток.",
+            "category": "pregnancy",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 0,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.wachanga.pregnancy",
+            "tags": null
+          }
+        ]
+      },
+      {
+        "title": "Кормление и забота",
+        "available": true,
+        "category": "feeding",
+        "colour" : "#FF6638",
+        "items": [
+          {
+            "title": "Грудное вскармливание",
+            "image": "https://i.postimg.cc/rm1M0wBs/image.png",
+            "description": "Помощник по уходу за новорожденным, дневник ребенка.",
+            "category": "feeding",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 0,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=en&id=com.wachanga.babycare",
+            "tags": null
+          }
+        ]
+      },
+      {
+        "title": "Обучение",
+        "available": true,
+        "category": "education",
+        "colour" : "#B96BFE",
+        "items": [
+          {
+            "title": "Лунтик. Развивающие игры для детей",
+            "image": "https://i.postimg.cc/0NLHgGHK/image.png",
+            "description": "Дом на дереве. Детские игры. Учим буквы, цвета, цифры.",
+            "category": "education",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 0,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.moonzyday",
+            "tags": null
+          }
+        ]
+      },
+      {
+        "title": "Мультики",
+        "available": true,
+        "category": "cartoon",
+        "colour" : "#2BD14D",
+        "items": [
+          {
+            "title": "ivi – мультфильмы и фильмы онлайн",
+            "image": "https://i.postimg.cc/zBTLp5gH/image.png",
+            "description": "Удобный и безопасный онлайн-кинотеатр для всей семьи.",
+            "category": "cartoon",
+            "app": true,
+            "franchise": null,
+            "min_age": 2,
+            "max_age": 12,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.ivi.child",
+            "tags": null
+          }
+        ]
+      },
+      {
+        "title": "Безопасность и контроль",
+        "available": true,
+        "category": "security",
+        "colour" : "#A1B9D3",
+        "items": [
+          {
+            "title": "Где мои дети",
+            "image": "https://i.postimg.cc/yYT7jxrz/Rectangle-13-2x.png",
+            "description": "Сервис, который позволяет родителям быть спокойнее за своих детей.",
+            "category": "security",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 0,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=org.findmykids.app",
+            "tags": null
+          }
+        ]
+      },
+      {
+        "title": "Игры",
+        "available": true,
+        "category": "games",
+        "colour" : "#27CAFB",
+        "items": [
+          {
+            "title": "Барбоскины: Готовка Еды для Девочек",
+            "image": "https://i.postimg.cc/cHQHfSK9/image.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Барбоскины",
+            "min_age": 6,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PSVStudio.BarboskinsCooking",
+            "tags": [
+              "Головоломки",
+              "Добрые игры"
+            ]
+          }
+        ]
+      }
+    ]
+  }
