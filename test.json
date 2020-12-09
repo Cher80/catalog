@@ -1,7 +1,7 @@
 {
   "data": {
     "text": "Мы собрали и протестировали по-настоящему полезные приложения для родителей и самые интересные игры для детей.",
-    "feedback": "https://app.detmir.ru/page15452105.html",
+    "feedback": "https://app.detmir.ru/page15833373.html",
     "franchises": [
       {
         "franchise": "Барбоскины",
@@ -43,6 +43,32 @@
             "tilda_link": "https://app.detmir.ru/page15452105.html",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.wachanga.pregnancy",
             "tags": null
+          },
+          {
+            "title": "Календарь беременности",
+            "image": "https://i.postimg.cc/J0pZyp9p/Rectangle-13-1.png",
+            "description": "...",
+            "category": "pregnancy",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 0,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.mobiledimension.kbr",
+            "tags": null
+          },
+          {
+            "title": "Беременность+",
+            "image": "https://i.postimg.cc/nhbc44p2/Rectangle-13-2.png",
+            "description": "Персонализированный трэкер беременности",
+            "category": "pregnancy",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 0,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.hp.pregnancy.lite",
+            "tags": null
           }
         ]
       },
@@ -50,7 +76,7 @@
         "title": "Кормление и забота",
         "available": true,
         "category": "feeding",
-        "colour" : "#FF6638",
+        "colour": "#FF6638",
         "items": [
           {
             "title": "Грудное вскармливание",
@@ -64,6 +90,32 @@
             "tilda_link": "https://app.detmir.ru/page15452105.html",
             "gp_link": "https://play.google.com/store/apps/details?hl=en&id=com.wachanga.babycare",
             "tags": null
+          },
+          {
+            "title": "Вачанга, ранее развитие",
+            "image": "https://i.postimg.cc/DydycW0K/Rectangle-13-3.png",
+            "description": "Гайд по воспитанию детей от рождения до 7 лет",
+            "category": "feeding",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 7,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.wachanga.android",
+            "tags": null
+          },
+          {
+            "title": "Бэби+",
+            "image": "https://i.postimg.cc/DydycW0K/Rectangle-13-3.png",
+            "description": "Самое полное приложение о детях",
+            "category": "feeding",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 1,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.hp.babyapp",
+            "tags": null
           }
         ]
       },
@@ -71,7 +123,7 @@
         "title": "Обучение",
         "available": true,
         "category": "education",
-        "colour" : "#B96BFE",
+        "colour": "#B96BFE",
         "items": [
           {
             "title": "Лунтик. Развивающие игры для детей",
@@ -80,10 +132,49 @@
             "category": "education",
             "app": true,
             "franchise": null,
-            "min_age": 0,
-            "max_age": 0,
+            "min_age": 3,
+            "max_age": 4,
             "tilda_link": "https://app.detmir.ru/page15452105.html",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.moonzyday",
+            "tags": null
+          },
+          {
+            "title": "Сказбука",
+            "image": "https://i.postimg.cc/1R0rDHGR/Rectangle-13-4.png",
+            "description": "Обучающие игры для детей и малышей",
+            "category": "education",
+            "app": true,
+            "franchise": null,
+            "min_age": 2,
+            "max_age": 7,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.zebrainy.skazbuka",
+            "tags": null
+          },
+          {
+            "title": "Buddy.ai: английский для детей",
+            "image": "https://i.postimg.cc/Wb8RY0vT/Rectangle-13-5.png",
+            "description": "Buddy общается с детьми пока они учатся произносить самые важные английские слова",
+            "category": "education",
+            "app": true,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 17,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://link.buddy.ai/iy3v/dm",
+            "tags": null
+          },
+          {
+            "title": "Фиксики. Математика для детей",
+            "image": "https://i.postimg.cc/CM46wY64/Rectangle-13-6.png",
+            "description": "Развивающие игры для девочек и мальчиков к школе",
+            "category": "education",
+            "app": true,
+            "franchise": null,
+            "min_age": 5,
+            "max_age": 7,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.fixiesmath",
             "tags": null
           }
         ]
@@ -92,7 +183,7 @@
         "title": "Мультики",
         "available": true,
         "category": "cartoon",
-        "colour" : "#2BD14D",
+        "colour": "#2BD14D",
         "items": [
           {
             "title": "ivi – мультфильмы и фильмы онлайн",
@@ -101,10 +192,36 @@
             "category": "cartoon",
             "app": true,
             "franchise": null,
-            "min_age": 2,
+            "min_age": 0,
             "max_age": 12,
             "tilda_link": "https://app.detmir.ru/page15452105.html",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.ivi.child",
+            "tags": null
+          },
+          {
+            "title": "МУЛЬТ",
+            "image": "https://i.postimg.cc/Fs5cCJxW/Rectangle-13-7.png",
+            "description": "Мультики, музыка и сказки для детей",
+            "category": "cartoon",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 7,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.imult.mult",
+            "tags": null
+          },
+          {
+            "title": "Капуки Кануки: детские мультики",
+            "image": "https://i.postimg.cc/R0yq3jss/Rectangle-13-8.png",
+            "description": "Развивающие мультики и передачи для малышей",
+            "category": "cartoon",
+            "app": true,
+            "franchise": null,
+            "min_age": 0,
+            "max_age": 8,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.projectfirst.KapukiKanuki",
             "tags": null
           }
         ]
@@ -113,7 +230,7 @@
         "title": "Безопасность и контроль",
         "available": true,
         "category": "security",
-        "colour" : "#A1B9D3",
+        "colour": "#A1B9D3",
         "items": [
           {
             "title": "Где мои дети",
@@ -122,10 +239,36 @@
             "category": "security",
             "app": true,
             "franchise": null,
-            "min_age": 0,
-            "max_age": 0,
+            "min_age": 6,
+            "max_age": 12,
             "tilda_link": "https://app.detmir.ru/page15452105.html",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=org.findmykids.app",
+            "tags": null
+          },
+          {
+            "title": "Kaspersky Safe Kids",
+            "image": "https://i.postimg.cc/W4L1TMhC/Rectangle-13-10.png",
+            "description": "Помощь в воспитании современного ребёнка",
+            "category": "security",
+            "app": true,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 12,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.kaspersky.safekids",
+            "tags": null
+          },
+          {
+            "title": "Кроха Родительский контроль",
+            "image": "https://i.postimg.cc/y6FXHPW4/Rectangle-13-9.png",
+            "description": "Контроль взаимодействия ребёнка с гаджетами",
+            "category": "security",
+            "app": true,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 12,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ua.com.tim_berners.parental_control",
             "tags": null
           }
         ]
@@ -134,25 +277,938 @@
         "title": "Игры",
         "available": true,
         "category": "games",
-        "colour" : "#27CAFB",
+        "colour": "#27CAFB",
         "items": [
           {
-            "title": "Барбоскины: Готовка Еды для Девочек",
+            "title": "Барбоскины: Готовка",
             "image": "https://i.postimg.cc/cHQHfSK9/image.png",
             "description": null,
             "category": "games",
             "app": false,
             "franchise": "Барбоскины",
-            "min_age": 6,
-            "max_age": 8,
+            "min_age": 3,
+            "max_age": 6,
             "tilda_link": null,
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PSVStudio.BarboskinsCooking",
             "tags": [
+              "Для девочек",
+              "Собаки",
+              "Готовка"
+            ]
+          },
+          {
+            "title": "Ми-ми-мишки",
+            "image": "https://i.postimg.cc/VNf9gBTG/Rectangle-13-13.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Ми-ми-мишки",
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.imult.bebebearsfree2play",
+            "tags": [
+              "Мини-игры",
+              "Путешествие для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Барбоскины: Веселые приключения",
+            "image": "https://i.postimg.cc/8PFTF2zw/Rectangle-13-14.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Барбоскины",
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PSVStudio.Pooches.holiday.beach_adventures",
+            "tags": [
+              "Путишествие",
+              "Собаки",
+              "Мини-игры"
+            ]
+          },
+          {
+            "title": "Барбоскины:  супермаркет",
+            "image": "https://i.postimg.cc/q77rTSS8/Rectangle-13-15.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Барбоскины",
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PSVStudio.BarboskinsInTheSupermarket",
+            "tags": [
+              "Собаки",
+              "Для девочек"
+            ]
+          },
+          {
+            "title": "Бумажки Free",
+            "image": "https://i.postimg.cc/63Lffb6m/Rectangle-13-16.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.imult.papermates",
+            "tags": [
+              "Творчество",
+              "Мини-игры",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Робокар Поли Спасатели",
+            "image": "https://i.postimg.cc/6Q79ZFcB/Rectangle-13-17.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.devgame.robocar.poli.city.game.amber.kids.free",
+            "tags": [
+              "Машинки",
+              "Ролевые",
+              "Для мальчиков"
+            ]
+          },
+          {
+            "title": "Грузовичок Лева и машинки",
+            "image": "https://i.postimg.cc/fR920Kd6/Rectangle-13-18.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Грузовичок Лева",
+            "min_age": 2,
+            "max_age": 4,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.projectfirst.leo.build1",
+            "tags": [
+              "Конструктор",
+              "Мини-игры",
+              "Для малышей"
+            ]
+          },
+          {
+            "title": "Три Кота: Гонки",
+            "image": "https://i.postimg.cc/jStcLbsJ/Rectangle-13-19.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.cats.kids_cars",
+            "tags": [
+              "Машинки",
+              "Гонки",
+              "Для мальчиков"
+            ]
+          },
+          {
+            "title": "Доктор Машинкова: Головоломки",
+            "image": "https://i.postimg.cc/CLLd1P3x/Rectangle-13-20.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.jeka.DoctorMacWheelie.free",
+            "tags": [
+              "Квесты",
+              "Машинки",
+              "Для мальчиков"
+            ]
+          },
+          {
+            "title": "Три Кота: Детский Доктор",
+            "image": "https://i.postimg.cc/DyMfz2Qx/Rectangle-13-21.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.devgame.kid.e.cats.animal.doctor",
+            "tags": [
+              "Медицина",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Дракоша Тоша: Волшебные Миры",
+            "image": "https://i.postimg.cc/GtSR9QD4/Rectangle-13-22.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.devgame.tommy.little.dragon.cartoon.children.games",
+            "tags": [
+              "Путешествие",
+              "Мини-игры для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Три Кота: Сокровища пиратов",
+            "image": "https://i.postimg.cc/RCbx7g3F/Rectangle-13-23.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.cats.pirate_adventures",
+            "tags": [
+              "Приключения",
+              "Мини-игры для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Три кота: Больница для животных",
+            "image": "https://i.postimg.cc/mZFWSQ7y/Rectangle-13-25.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.cats.hospital_injections",
+            "tags": [
+              "Медицина",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Три Кота — Кукольный домик",
+            "image": "https://i.postimg.cc/sxPnNDjs/Rectangle-13-26.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.Metrafilms.KidECatsDollHouse",
+            "tags": [
+              "Развивающие",
+              "Мини-игры для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Лунтик: Сказки на ночь",
+            "image": "https://i.postimg.cc/bJwkhy9q/Rectangle-13-27.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PSVStudio.Luntik.skazki.na.noch",
+            "tags": [
+              "Перед сном"
+            ]
+          },
+          {
+            "title": "Три Кота Магазин",
+            "image": "https://i.postimg.cc/NM4hywVJ/Rectangle-13-28.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.devgame.kidecatssupermarket",
+            "tags": [
+              "Мини-игры",
+              "Обучение для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Маша и Медведь: Игрушечный доктор",
+            "image": "https://i.postimg.cc/6q2hkrdr/Rectangle-13-29.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Маша и медведь",
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.masha_and_bear_games.girls_boys.hospital_toy_doctor",
+            "tags": [
+              "Медицина",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Три Кота Пикник",
+            "image": "https://i.postimg.cc/ZR97mzmv/Rectangle-13-30.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.devgame.catspicnic",
+            "tags": [
+              "Развивающие",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Маша и Медведь: Ветклиника",
+            "image": "https://i.postimg.cc/Y9cgv5gW/Rectangle-13-31.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Маша и медведь",
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.indigokids.mimdoctor",
+            "tags": [
+              "Медицина",
+              "Животные",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Маша и Медведь: Уборка в Доме",
+            "image": "https://i.postimg.cc/7Y7L659m/Rectangle-13-33.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Маша и медведь",
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.indigokids.mashacleanup",
+            "tags": [
+              "Для девочек"
+            ]
+          },
+          {
+            "title": "Царевны: Волшебные Истории",
+            "image": "https://i.postimg.cc/rwMqwQKw/Rectangle-13-34.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.devgame.little.tiaras.magic.tales.games.quest",
+            "tags": [
+              "Для девочек",
+              "Квесты",
+              "3D"
+            ]
+          },
+          {
+            "title": "Маша и Медведь: Готовим Еду",
+            "image": "https://i.postimg.cc/VN5q299K/Rectangle-13-35.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Маша и медведь",
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.indigokids.mashakasha",
+            "tags": [
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Маша и Медведь: Игры для Детей",
+            "image": "https://i.postimg.cc/1zCrCCLC/Rectangle-13-36.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Маша и медведь",
+            "min_age": 2,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.indigokids.mim",
+            "tags": [
+              "Мини-игры",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Ми-ми-мишки в космосе",
+            "image": "https://i.postimg.cc/HxbKqCdW/Rectangle-13-37.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Ми-ми-мишки",
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.imult.bears3",
+            "tags": [
+              "Путешествие",
+              "Приключения для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Детские Грузовики",
+            "image": "https://i.postimg.cc/FHdvHz4D/Rectangle-13-38.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PSVStudio.HippoMonstarTruck",
+            "tags": [
+              "Гонки",
+              "Милые персонажи"
+            ]
+          },
+          {
+            "title": "Pepi House",
+            "image": "https://i.postimg.cc/pT0cjQQ8/Rectangle-13-39.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PepiPlay.PepiHospital",
+            "tags": [
+              "Мини-игры",
+              "Веселые персонажи"
+            ]
+          },
+          {
+            "title": "Сказочный Патруль: Кафе",
+            "image": "https://i.postimg.cc/523r1MHn/Rectangle-13-40.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 10,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.imult.cafe",
+            "tags": [
+              "Мини-игры",
+              "Для девочек"
+            ]
+          },
+          {
+            "title": "Маша и Медведь: Пиццерия",
+            "image": "https://i.postimg.cc/PJjbPP9Z/Rectangle-13-41.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Маша и медведь",
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.masha.and.bear.pizzeria.games",
+            "tags": [
+              "Для девочек"
+            ]
+          },
+          {
+            "title": "Три Кота: Кулинария",
+            "image": "https://i.postimg.cc/T3F2XSKL/Rectangle-13-43.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.kid.e.cats.cooking.show.game",
+            "tags": [
+              "Творчество",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "12 Замков у FFGTV дома",
+            "image": "https://i.postimg.cc/nryTxnfS/Rectangle-13-44.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 9,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.rud.twelvelocksff",
+            "tags": [
               "Головоломки",
-              "Добрые игры"
+              "Пластилиновая графика",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Три Кота: Морское приключение",
+            "image": "https://i.postimg.cc/N0K4KyGC/Rectangle-13-45.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 5,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.cats.sea.adventure.kids.treasure.hunt.quest",
+            "tags": [
+              "Мини-игры",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Аквапарк: Веселые водные горки",
+            "image": "https://i.postimg.cc/vm542M0H/Rectangle-13-46.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 12,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.hippo_kids_games.for_girls_boys.water_slide_park",
+            "tags": [
+              "Мини-игры",
+              "Милые персонажи",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Синий Трактор: Игры для детей",
+            "image": "https://i.postimg.cc/CKMK7DnJ/Rectangle-13-47.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 1,
+            "max_age": 3,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.blue.tractor.game.kids.educational",
+            "tags": [
+              "Развивающие игры"
+            ]
+          },
+          {
+            "title": "Vlad & Niki 12 замков",
+            "image": "https://i.postimg.cc/Bn7WW1wm/Rectangle-13-48.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 9,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.rud.twelvelocksvn",
+            "tags": [
+              "Головоломки",
+              "Пластилиновая графика",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Синий Трактор: Учимся Весело",
+            "image": "https://i.postimg.cc/vBMt30Lk/Rectangle-13-49.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 1,
+            "max_age": 3,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.blue.tractor.games.children.learning",
+            "tags": [
+              "Обучающие игры"
+            ]
+          },
+          {
+            "title": "Доброе утро. Развивающие детские игры",
+            "image": "https://i.postimg.cc/yxCxFGm3/Rectangle-13-50.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.Hippo.GoodMorning",
+            "tags": [
+              "Мини-игры",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Робокар Поли: Почтальон",
+            "image": "https://i.postimg.cc/ydPtPg9h/Rectangle-13-51.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.robocar.poli.postman.kids.games",
+            "tags": [
+              "Мини-игры",
+              "Для мальчиков"
+            ]
+          },
+          {
+            "title": "День Рождения: Вечеринка для детей",
+            "image": "https://i.postimg.cc/YCYXRLB4/Rectangle-13-52.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PSVStudio.BirthdayParty",
+            "tags": [
+              "Мини-игры",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Юху и Его Друзья: Доктор",
+            "image": "https://i.postimg.cc/Twt5nxd7/Rectangle-13-53.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.yoohoo.friends.animal.doctor.kids",
+            "tags": [
+              "Зверята",
+              "Для девочек"
+            ]
+          },
+          {
+            "title": "12 Замков II",
+            "image": "https://i.postimg.cc/BQkYx9tn/Rectangle-13-54.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 9,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.rud.twelvelocks2",
+            "tags": [
+              "Головоломки",
+              "Пластилиновая графика"
+            ]
+          },
+          {
+            "title": "Фиксики: Кондитерская Фабрика",
+            "image": "https://i.postimg.cc/s2X48TMN/Rectangle-13-55.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Фиксики",
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.fixiesfactory",
+            "tags": [
+              "Творчество",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "12 ЗАМКОВ 3: Вокруг света",
+            "image": "https://i.postimg.cc/pdbPc6c2/Rectangle-13-56.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 9,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.rud.twelvelocks3",
+            "tags": [
+              "Головоломки",
+              "Пластилиновая графика"
+            ]
+          },
+          {
+            "title": "Фиксики Мастера На Вертолётах",
+            "image": "https://i.postimg.cc/s2rR4Z1x/Rectangle-13-57.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": "Фиксики",
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.fixies.masters.repair.games",
+            "tags": [
+              "Развивает интеллект"
+            ]
+          },
+          {
+            "title": "Свадебная вечеринка. Игра для девочек",
+            "image": "https://i.postimg.cc/Y9JcjGct/Rectangle-13-58.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 10,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.hippo.CousinWedding",
+            "tags": [
+              "Мини-игры",
+              "Для девочек"
+            ]
+          },
+          {
+            "title": "Модный гардероб Барби",
+            "image": "https://i.postimg.cc/br3Q3bzh/Rectangle-13-59.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 6,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.mattel.barbiesparkleblastkids",
+            "tags": [
+              "Творчество",
+              "Для девочек",
+              "Куклы"
+            ]
+          },
+          {
+            "title": "Аэропорт игры: Увлекательные профессии",
+            "image": "https://i.postimg.cc/0ygNhjbR/Rectangle-13-60.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 7,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.hippo.AirportProfession",
+            "tags": [
+              "Мини-игры",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Hot Wheels id",
+            "image": "https://i.postimg.cc/LX7SfQPK/Rectangle-13-61.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.mattel.hwid",
+            "tags": [
+              "Гонки",
+              "3D",
+              "Для мальчиков"
+            ]
+          },
+          {
+            "title": "12 ЗАМКОВ: Пластилиновая комната",
+            "image": "https://i.postimg.cc/Zqd22YBg/Rectangle-13-62.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 6,
+            "max_age": 9,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.rud.twelvelocks",
+            "tags": [
+              "Головоломки",
+              "Пластилиновая графика"
+            ]
+          },
+          {
+            "title": "Hot Wheels Infinite Loop",
+            "image": "https://i.postimg.cc/1XwGwttG/Rectangle-13-63.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.mattel.HWInfiniteLoop",
+            "tags": [
+              "Гонки",
+              "3D",
+              "Для мальчиков"
+            ]
+          },
+          {
+            "title": "Pepi Hospital",
+            "image": "https://i.postimg.cc/wxwgYVjd/Rectangle-13-64.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 10,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PepiPlay.PepiHospital",
+            "tags": [
+              "Мини-игры",
+              "Медицина",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Томас и его друзья: Приключения!",
+            "image": "https://i.postimg.cc/QdyJ2vRW/Rectangle-13-65.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.mattel.thomasbigadventure",
+            "tags": [
+              "Обучение",
+              "Головоломки",
+              "3D"
+            ]
+          },
+          {
+            "title": "Супермаркет. Игра для детей",
+            "image": "https://i.postimg.cc/3xX3VHyt/Rectangle-13-66.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 4,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.kidgame.supermarket",
+            "tags": [
+              "Мини-игры",
+              "Обучение",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Hot Wheels™ Ultimate Garage",
+            "image": "https://i.postimg.cc/Yqk7FsDg/Rectangle-13-67.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.mattel.hwgarage",
+            "tags": [
+              "Гонки",
+              "3D",
+              "Для мальчиков"
+            ]
+          },
+          {
+            "title": "Pepi Wonder World",
+            "image": "https://i.postimg.cc/jqfN2LB2/Rectangle-13-68.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 5,
+            "max_age": 10,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PepiPlay.KingsCastle",
+            "tags": [
+              "Творчество",
+              "Сказочные персонажи",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Мир Юрского Периода",
+            "image": "https://i.postimg.cc/C5CzNfV4/Rectangle-13-69.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.mattel.jurassicworld2",
+            "tags": [
+              "3D",
+              "Для мальчиков",
+              "Дополнение к игрушкам"
+            ]
+          },
+          {
+            "title": "Pepi Super Stores",
+            "image": "https://i.postimg.cc/63fXbVyT/Rectangle-13-70.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.PepiPlay.PepiShopping",
+            "tags": [
+              "Творчество",
+              "Мини-игры",
+              "Для мальчиков и девочек"
+            ]
+          },
+          {
+            "title": "Baby Dragons: Ever After High",
+            "image": "https://i.postimg.cc/7Z2jQ1RD/Rectangle-13-71.png",
+            "description": null,
+            "category": "games",
+            "app": false,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 8,
+            "tilda_link": null,
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.mattel.eahdragons",
+            "tags": [
+              "Творчество",
+              "Дракончики",
+              "Для девочек"
             ]
           }
         ]
       }
     ]
   }
+}
