@@ -126,19 +126,6 @@
         "colour": "#B96BFE",
         "items": [
           {
-            "title": "Лунтик. Развивающие игры для детей",
-            "image": "https://i.postimg.cc/L5Q04t5Y/image.png",
-            "description": "Дом на дереве. Детские игры. Учим буквы, цвета, цифры.",
-            "category": "education",
-            "app": true,
-            "franchise": null,
-            "min_age": 3,
-            "max_age": 4,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.moonzyday",
-            "tags": null
-          },
-          {
             "title": "Сказбука",
             "image": "https://i.postimg.cc/43R23Nf5/image.png",
             "description": "Обучающие игры для детей и малышей",
@@ -175,6 +162,19 @@
             "max_age": 7,
             "tilda_link": "https://app.detmir.ru/page15452105.html",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.fixiesmath",
+            "tags": null
+          },
+          {
+            "title": "Лунтик. Развивающие игры для детей",
+            "image": "https://i.postimg.cc/L5Q04t5Y/image.png",
+            "description": "Дом на дереве. Детские игры. Учим буквы, цвета, цифры.",
+            "category": "education",
+            "app": true,
+            "franchise": null,
+            "min_age": 3,
+            "max_age": 4,
+            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.moonzyday",
             "tags": null
           }
         ]
