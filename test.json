@@ -8,24 +8,52 @@
     },
     "franchises": [
       {
-        "franchise": "Барбоскины",
-        "image": "https://i.postimg.cc/6pP2Hssf/1.png"
-      },
-      {
-        "franchise": "Ми-ми-мишки",
-        "image": "https://i.postimg.cc/t4sGNwNb/image.png"
+        "franchise": "Три кота",
+        "image": "https://i.postimg.cc/pdcq3dpw/image.png"
       },
       {
         "franchise": "Маша и медведь",
-        "image": "https://i.postimg.cc/Bv1s4kjp/image.png"
+        "image": "https://i.postimg.cc/kMbfhq9H/image.png"
       },
       {
-        "franchise": "Фиксики",
-        "image": "https://i.postimg.cc/DwR0rqsC/image.png"
+        "franchise": "Барбоскины",
+        "image": "https://i.postimg.cc/R0CvXgHP/image.png"
+      },
+      {
+        "franchise": "Ми-ми-мишки",
+        "image": "https://i.postimg.cc/jdzKTp6g/image.png"
+      },
+      {
+        "franchise": "Бумажки",
+        "image": "https://i.postimg.cc/xdFVgnYC/image.png"
       },
       {
         "franchise": "Грузовичок Лева",
-        "image": "https://i.postimg.cc/T1c5QpGK/image.png"
+        "image": "https://i.postimg.cc/635xfqFF/image.png"
+      },
+      {
+        "franchise": "Доктор машинкова",
+        "image": "https://i.postimg.cc/7ZmFYw5V/image.png"
+      },
+      {
+        "franchise": "Дракоша Тоша",
+        "image": "https://i.postimg.cc/527rWgrK/image.png"
+      },
+      {
+        "franchise": "Лунтик",
+        "image": "https://i.postimg.cc/qR8QqxmT/image.png"
+      },
+      {
+        "franchise": "Робокар Полли",
+        "image": "https://i.postimg.cc/wj7VLpWF/image.png"
+      },
+      {
+        "franchise": "Фиксики",
+        "image": "https://i.postimg.cc/3N8jR54X/image.png"
+      },
+      {
+        "franchise": "Царевны",
+        "image": "https://i.postimg.cc/0yTpSJK2/image.png"
       }
     ],
     "categories": [
@@ -44,8 +72,8 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 0,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.wachanga.pregnancy",
+            "tilda_link": "https://app.detmir.ru/wachangacalendar",
+            "gp_link": "https://wachanga-pregnancy.onelink.me/PXUa/detmir1",
             "tags": null
           },
           {
@@ -57,8 +85,8 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 0,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.mobiledimension.kbr",
+            "tilda_link": "https://app.detmir.ru/ammacalendar",
+            "gp_link": "https://go.onelink.me/UCIj/df45d8e4",
             "tags": null
           },
           {
@@ -70,7 +98,7 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 0,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "tilda_link": "https://app.detmir.ru/philips-beremennost",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.hp.pregnancy.lite",
             "tags": null
           }
@@ -91,8 +119,8 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 0,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=en&id=com.wachanga.babycare",
+            "tilda_link": "https://app.detmir.ru/wachanga-kormlenie",
+            "gp_link": "https://wachanga-babycare.onelink.me/ZPTU/detmir1",
             "tags": null
           },
           {
@@ -104,8 +132,8 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 7,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.wachanga.android",
+            "tilda_link": "https://app.detmir.ru/wachanga-razvitie",
+            "gp_link": "https://wachanga-parenting.onelink.me/EIoJ/detmir1",
             "tags": null
           },
           {
@@ -117,7 +145,7 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 1,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "tilda_link": "https://app.detmir.ru/philips-baby",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.hp.babyapp",
             "tags": null
           }
@@ -138,8 +166,8 @@
             "franchise": null,
             "min_age": 2,
             "max_age": 7,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.zebrainy.skazbuka",
+            "tilda_link": "https://app.detmir.ru/skazbuka",
+            "gp_link": "https://skazbuka.onelink.me/w0fJ?pid=Partners&af_channel=detmir&af_web_dp=https%3A%2F%2Fskazbuka.com",
             "tags": null
           },
           {
@@ -151,7 +179,7 @@
             "franchise": null,
             "min_age": 3,
             "max_age": 17,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "tilda_link": "https://app.detmir.ru/buddyai",
             "gp_link": "https://link.buddy.ai/iy3v/dm",
             "tags": null
           },
@@ -164,8 +192,8 @@
             "franchise": null,
             "min_age": 5,
             "max_age": 7,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.fixiesmath",
+            "tilda_link": "https://app.detmir.ru/fixiki",
+            "gp_link": "https://redirect.appmetrica.yandex.com/serve/26940479119619762",
             "tags": null
           },
           {
@@ -177,8 +205,8 @@
             "franchise": null,
             "min_age": 3,
             "max_age": 4,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.publishing1c.moonzyday",
+            "tilda_link": "https://app.detmir.ru/luntik",
+            "gp_link": "https://redirect.appmetrica.yandex.com/serve/603401296199841725",
             "tags": null
           }
         ]
@@ -198,7 +226,7 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 12,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "tilda_link": "https://app.detmir.ru/ivi",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.ivi.child",
             "tags": null
           },
@@ -211,8 +239,8 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 7,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.imult.mult",
+            "tilda_link": "https://app.detmir.ru/mult",
+            "gp_link": "https://cutt.ly/ZgHgNOc",
             "tags": null
           },
           {
@@ -224,8 +252,8 @@
             "franchise": null,
             "min_age": 0,
             "max_age": 8,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ru.projectfirst.KapukiKanuki",
+            "tilda_link": "https://app.detmir.ru/kapukikanuki",
+            "gp_link": "https://redirect.appmetrica.yandex.com/serve/243114939491888347",
             "tags": null
           }
         ]
@@ -245,8 +273,8 @@
             "franchise": null,
             "min_age": 6,
             "max_age": 12,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=org.findmykids.app",
+            "tilda_link": "https://app.detmir.ru/gdemoideti",
+            "gp_link": "https://app.adjust.com/hobea1x_lv1zcr5",
             "tags": null
           },
           {
@@ -258,7 +286,7 @@
             "franchise": null,
             "min_age": 6,
             "max_age": 12,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
+            "tilda_link": "https://app.detmir.ru/kaspersky",
             "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=com.kaspersky.safekids",
             "tags": null
           },
@@ -271,8 +299,8 @@
             "franchise": null,
             "min_age": 6,
             "max_age": 12,
-            "tilda_link": "https://app.detmir.ru/page15452105.html",
-            "gp_link": "https://play.google.com/store/apps/details?hl=ru&id=ua.com.tim_berners.parental_control",
+            "tilda_link": "https://app.detmir.ru/kroha",
+            "gp_link": "https://play.google.com/store/apps/details?id=ua.com.tim_berners.parental_control&utm_source=google-play&utm_medium=stores&utm_campaign=DETMIR",
             "tags": null
           }
         ]
@@ -355,7 +383,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Бумажки",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -372,7 +400,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Робокар Полли",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -406,7 +434,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -423,7 +451,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Доктор машинкова",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -440,7 +468,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 6,
             "tilda_link": null,
@@ -456,7 +484,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Дракоша Тоша",
             "min_age": 4,
             "max_age": 7,
             "tilda_link": null,
@@ -472,7 +500,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 6,
             "tilda_link": null,
@@ -488,7 +516,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 6,
             "tilda_link": null,
@@ -504,7 +532,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -520,7 +548,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Лунтик",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -535,7 +563,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 4,
             "max_age": 6,
             "tilda_link": null,
@@ -567,7 +595,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 6,
             "tilda_link": null,
@@ -615,7 +643,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Царевны",
             "min_age": 4,
             "max_age": 7,
             "tilda_link": null,
@@ -742,7 +770,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -775,7 +803,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Три кота",
             "min_age": 3,
             "max_age": 5,
             "tilda_link": null,
@@ -871,7 +899,7 @@
             "description": null,
             "category": "games",
             "app": false,
-            "franchise": null,
+            "franchise": "Робокар Поли",
             "min_age": 4,
             "max_age": 6,
             "tilda_link": null,
