@@ -3,7 +3,7 @@
     "text": "Мы собрали и протестировали по-настоящему полезные приложения для родителей и самые интересные игры для детей.",
     "feedback": "https://app.detmir.ru/page15833373.html",
     "terms_of_use": {
-        "text": "Я принимаю все условия и риски от использования этих приложений",
+        "text": "ПАО «Детский мир» не несет ответственность за качество контента скачиваемых покупателями приложений, а также технические возможности их использования",
         "link": "https://app.detmir.ru/page15833373.html"
     },
     "franchises": [
@@ -837,7 +837,7 @@
             "category": "games",
             "app": false,
             "franchise": null,
-            "min_age": 1,
+            "min_age": 0,
             "max_age": 3,
             "tilda_link": null,
             "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.blue.tractor.game.kids.educational",
@@ -869,7 +869,7 @@
             "category": "games",
             "app": false,
             "franchise": null,
-            "min_age": 1,
+            "min_age": 0,
             "max_age": 3,
             "tilda_link": null,
             "gp_link": "https://play.google.com/store/apps/details?id=com.devgame.blue.tractor.games.children.learning",
