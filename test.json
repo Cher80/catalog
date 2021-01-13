@@ -73,7 +73,7 @@
             "min_age": 0,
             "max_age": 0,
             "tilda_link": "https://app.detmir.ru/wachangacalendar",
-            "gp_link": "https://wachanga-pregnancy.onelink.me/PXUa/detmir1",
+            "gp_link": "https://app.appsflyer.com/com.wachanga.pregnancy?pid=Detmir%20Apps",
             "tags": null
           },
           {
@@ -120,7 +120,7 @@
             "min_age": 0,
             "max_age": 0,
             "tilda_link": "https://app.detmir.ru/wachanga-kormlenie",
-            "gp_link": "https://wachanga-babycare.onelink.me/ZPTU/detmir1",
+            "gp_link": "https://app.appsflyer.com/com.wachanga.babycare?pid=Detmir%20Apps",
             "tags": null
           },
           {
@@ -133,7 +133,7 @@
             "min_age": 0,
             "max_age": 7,
             "tilda_link": "https://app.detmir.ru/wachanga-razvitie",
-            "gp_link": "https://wachanga-parenting.onelink.me/EIoJ/detmir1",
+            "gp_link": "https://app.appsflyer.com/com.wachanga.android?pid=Detmir%20Apps",
             "tags": null
           },
           {
