@@ -1,10 +1,229 @@
 {
-  "data": {
-    "text": "Мы собрали и протестировали по-настоящему полезные приложения для родителей и самые интересные игры для детей.",
+  "config": {
     "feedback": "https://app.detmir.ru/page15833373.html",
     "terms_of_use": {
-        "text": "Я принимаю все условия и риски от использования этих приложений",
-        "link": "https://app.detmir.ru/agreement"
+      "text": "Продолжая, вы принимаете условия использования сервисов",
+      "link": "https://app.detmir.ru/agreement"
+    }
+  },
+  "services": {
+    "info": {
+      "text": "Вместе с нашими проверенными партнерами, мы запустили полезные услуги: няни, уборка, помощь с ремонтом и много другое",
+      "link": null
+    },
+    "categories": [
+      {
+        "title": "Посидеть с ребенком",
+        "available": true,
+        "text": null,
+        "category": "babysitter",
+        "bonuses": 150,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "direct",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "items": null
+      },
+      {
+        "title": "Онлайн занятия",
+        "available": true,
+        "text": null,
+        "category": "online_learning",
+        "bonuses": null,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "direct",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "items": null
+      },
+      {
+        "title": "Педиатр онлайн",
+        "available": true,
+        "text": null,
+        "category": "online_med",
+        "bonuses": 50,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "direct",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "items": null
+      },
+      {
+        "title": "Помощь по дому",
+        "available": true,
+        "text": null,
+        "category": "cleaning",
+        "bonuses": 30,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "direct",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "items": null
+      },
+      {
+        "title": "Стрижка, массаж и уход",
+        "available": true,
+        "text": "Вы сами выбираете специалиста и оплачиваете услугу после выполнения",
+        "category": "care",
+        "bonuses": 500,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "indirect",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": null,
+        "items": [
+          {
+            "title": "Детский массаж",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "Укрепление организма, лечение опорно-дигательного аппарата, у специалиста или у вас дома",
+            "category": "care",
+            "subcategory": "baby_massage",
+            "bonuses_str": "Начислим 100 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/byttehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Детский парикмахер",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "От 1 года, для мальчиков и девочек, специалист приедет к вам домой",
+            "category": "care",
+            "subcategory": "hairdresser_for_children",
+            "bonuses_str": "Начислим 50 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Маникюр для мамы",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "Аппаратный, классический, европейский, специалист приедет к вам домой",
+            "category": "care",
+            "subcategory": "manicure",
+            "bonuses_str": "Начислим 30 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Парикмахер для мамы",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "Стрижка, окрашивание, укладка специалист приедет к вам домой",
+            "category": "care",
+            "subcategory": "hairdresser",
+            "bonuses_str": "Начислим 30 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Ресницы для мамы",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "Наращивание любого объема, у вас дома или у специалиста",
+            "category": "care",
+            "subcategory": "eyelashes",
+            "bonuses_str": "Начислим 30 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Массаж для мамы",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "Укрепление организма, лечебный, восстанавливающий, у вас дома или у специалиста",
+            "category": "care",
+            "subcategory": "massage",
+            "bonuses_str": "Начислим 30 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+          }
+        ]
+      },
+      {
+        "title": "Ремонт и сборка мебели",
+        "available": true,
+        "text": "Вы сами выбираете специалиста и оплачиваете услугу после выполнения",
+        "category": "repair",
+        "bonuses": 50,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "indirect",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": null,
+        "items": [
+          {
+            "title": "Ремонт бытовой техники",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "Укрепление организма, лечение опорно-дигательного апарата, кривошеи и сколиоза",
+            "category": "repair",
+            "subcategory": "repair_household_appliances",
+            "bonuses_str": "Начислим 100 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/byttehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Ремонт сантехники",
+            "available": true,
+            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "description": "Укрепление организма, лечение опорно-дигательного апарата, кривошеи и сколиоза",
+            "category": "repair",
+            "subcategory": "repair_plumbing",
+            "bonuses_str": "Начислим 200 бонусов",
+            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+          }
+        ]
+      },
+      {
+        "title": "Выгулять собаку",
+        "available": true,
+        "text": null,
+        "category": "dog",
+        "bonuses": 100,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "direct",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "items": null
+      },
+      {
+        "title": "Репетиторы и логопеды",
+        "available": true,
+        "text": null,
+        "category": "tutor",
+        "bonuses": 100,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "direct",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "items": null
+      },
+      {
+        "title": "Организовать день рождения",
+        "available": true,
+        "text": null,
+        "category": "birthday",
+        "bonuses": null,
+        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "type": "direct",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "items": null
+      }
+    ]
+  },
+  "apps": {
+    "info": {
+      "text": "Мы собрали и протестировали по-настоящему полезные приложения для родителей и самые интересные игры для детей",
+      "link": null
     },
     "franchises": [
       {
@@ -73,7 +292,7 @@
             "min_age": 0,
             "max_age": 0,
             "tilda_link": "https://app.detmir.ru/wachangacalendar",
-            "gp_link": "https://app.appsflyer.com/com.wachanga.pregnancy?pid=Detmir%20Apps",
+            "gp_link": "https://wachanga-pregnancy.onelink.me/PXUa/detmir1",
             "tags": null
           },
           {
@@ -120,7 +339,7 @@
             "min_age": 0,
             "max_age": 0,
             "tilda_link": "https://app.detmir.ru/wachanga-kormlenie",
-            "gp_link": "https://app.appsflyer.com/com.wachanga.babycare?pid=Detmir%20Apps",
+            "gp_link": "https://wachanga-babycare.onelink.me/ZPTU/detmir1",
             "tags": null
           },
           {
@@ -133,7 +352,7 @@
             "min_age": 0,
             "max_age": 7,
             "tilda_link": "https://app.detmir.ru/wachanga-razvitie",
-            "gp_link": "https://app.appsflyer.com/com.wachanga.android?pid=Detmir%20Apps",
+            "gp_link": "https://wachanga-parenting.onelink.me/EIoJ/detmir1",
             "tags": null
           },
           {
