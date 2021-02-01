@@ -8,7 +8,7 @@
   },
   "services": {
     "info": {
-      "text": "Вместе с нашими проверенными партнерами, мы запустили полезные услуги: няни, уборка, помощь с ремонтом и много другое",
+      "text": "Мы собрали для вас полезные услуги от наших проверенных партнеров",
       "link": null
     },
     "categories": [
@@ -18,7 +18,7 @@
         "text": null,
         "category": "babysitter",
         "bonuses": 150,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "webview_icon": "https://i.postimg.cc/ncCcLFZ0/Group-1132-1.png",
         "type": "direct",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
         "link": "https://kidsout.ru/search?city_id=1&date=20210127",
@@ -30,7 +30,7 @@
         "text": null,
         "category": "online_learning",
         "bonuses": null,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "webview_icon": "https://i.postimg.cc/ncCcLFZ0/Group-1132-1.png",
         "type": "direct",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
         "link": "https://kidsout.ru/search?city_id=1&date=20210127",
@@ -42,7 +42,7 @@
         "text": null,
         "category": "online_med",
         "bonuses": 50,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "webview_icon": "https://i.postimg.cc/g2GpZGbC/Group-1136.png",
         "type": "direct",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
         "link": "https://kidsout.ru/search?city_id=1&date=20210127",
@@ -54,10 +54,10 @@
         "text": null,
         "category": "cleaning",
         "bonuses": 30,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "direct",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
-        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "link": "https://profi.ru/domashnii_personal/domrabotnica/?seamless=1&tabName=ORDER",
         "items": null
       },
       {
@@ -66,7 +66,7 @@
         "text": "Вы сами выбираете специалиста и оплачиваете услугу после выполнения",
         "category": "care",
         "bonuses": 500,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "indirect",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
         "link": null,
@@ -74,111 +74,74 @@
           {
             "title": "Детский массаж",
             "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "image": "https://i.postimg.cc/d0KCbWpR/11-parikmaher-massege.png",
             "description": "Укрепление организма, лечение опорно-дигательного аппарата, у специалиста или у вас дома",
             "category": "care",
             "subcategory": "baby_massage",
             "bonuses_str": "Начислим 100 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
             "type": "direct",
-            "link": "https://profi.ru/remont/byttehnika/?seamless=1&tabName=ORDER"
+            "link": "https://profi.ru/krasota/massage/detskii-massazh/?seamless=1&tabName=ORDER"
           },
           {
             "title": "Детский парикмахер",
             "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "image": "https://i.postimg.cc/CKYZPRnm/12-parikmaher-child.png",
             "description": "От 1 года, для мальчиков и девочек, специалист приедет к вам домой",
             "category": "care",
             "subcategory": "hairdresser_for_children",
             "bonuses_str": "Начислим 50 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
             "type": "direct",
-            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+            "link": "https://profi.ru/krasota/haircut/detskie-strizhki/?seamless=1&tabName=ORDER"
           },
           {
             "title": "Маникюр для мамы",
             "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "image": "https://i.postimg.cc/B67XnNYV/13-parikmaher-nails.png",
             "description": "Аппаратный, классический, европейский, специалист приедет к вам домой",
             "category": "care",
             "subcategory": "manicure",
             "bonuses_str": "Начислим 30 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
             "type": "direct",
-            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+            "link": "https://profi.ru/krasota/manicure/?seamless=1&tabName=ORDER"
           },
           {
             "title": "Парикмахер для мамы",
             "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "image": "https://i.postimg.cc/4yhNNGhY/14-parikmaher-mamahaircut.png",
             "description": "Стрижка, окрашивание, укладка специалист приедет к вам домой",
             "category": "care",
             "subcategory": "hairdresser",
             "bonuses_str": "Начислим 30 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
             "type": "direct",
-            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+            "link": "https://profi.ru/krasota/parikmaher/?seamless=1&tabName=ORDER"
           },
           {
             "title": "Ресницы для мамы",
             "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "image": "https://i.postimg.cc/TYggtMH2/15-parikmaher-eyelashes.png",
             "description": "Наращивание любого объема, у вас дома или у специалиста",
             "category": "care",
             "subcategory": "eyelashes",
             "bonuses_str": "Начислим 30 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
             "type": "direct",
-            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+            "link": "https://profi.ru/krasota/eyelash_ext/?seamless=1&tabName=ORDER"
           },
           {
             "title": "Массаж для мамы",
             "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
+            "image": "https://i.postimg.cc/rpnrD8zj/16-parikmaher-mamamassege.png",
             "description": "Укрепление организма, лечебный, восстанавливающий, у вас дома или у специалиста",
             "category": "care",
             "subcategory": "massage",
             "bonuses_str": "Начислим 30 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
             "type": "direct",
-            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
-          }
-        ]
-      },
-      {
-        "title": "Ремонт и сборка мебели",
-        "available": true,
-        "text": "Вы сами выбираете специалиста и оплачиваете услугу после выполнения",
-        "category": "repair",
-        "bonuses": 50,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
-        "type": "indirect",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
-        "link": null,
-        "items": [
-          {
-            "title": "Ремонт бытовой техники",
-            "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
-            "description": "Укрепление организма, лечение опорно-дигательного апарата, кривошеи и сколиоза",
-            "category": "repair",
-            "subcategory": "repair_household_appliances",
-            "bonuses_str": "Начислим 100 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
-            "type": "direct",
-            "link": "https://profi.ru/remont/byttehnika/?seamless=1&tabName=ORDER"
-          },
-          {
-            "title": "Ремонт сантехники",
-            "available": true,
-            "image": "https://i.postimg.cc/Gt6H1fF4/image.png",
-            "description": "Укрепление организма, лечение опорно-дигательного апарата, кривошеи и сколиоза",
-            "category": "repair",
-            "subcategory": "repair_plumbing",
-            "bonuses_str": "Начислим 200 бонусов",
-            "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
-            "type": "direct",
-            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+            "link": "https://profi.ru/krasota/massage/?seamless=1&tabName=ORDER"
           }
         ]
       },
@@ -188,11 +151,84 @@
         "text": null,
         "category": "dog",
         "bonuses": 100,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
+        "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "direct",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
-        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "link": "https://profi.ru/domashnii_personal/domrabotnica/uhod-za-zhivotnymi/vygul-sobak/?seamless=1&tabName=ORDER",
         "items": null
+      },
+      {
+        "title": "Ремонт и сборка мебели",
+        "available": true,
+        "text": "Вы сами выбираете специалиста и оплачиваете услугу после выполнения",
+        "category": "repair",
+        "bonuses": 50,
+        "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+        "type": "indirect",
+        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "link": null,
+        "items": [
+          {
+            "title": "Ремонт бытовой техники",
+            "available": true,
+            "image": "https://i.postimg.cc/jjLjkyd6/21-repair-tech.png",
+            "description": "Установка и подключение, ремонт, демонтаж",
+            "category": "repair",
+            "subcategory": "repair_household_appliances",
+            "bonuses_str": "Начислим 100 бонусов",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/byttehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Ремонт сантехники",
+            "available": true,
+            "image": "https://i.postimg.cc/XqcNy8QW/22-repair-pipes.png",
+            "description": "Срочная помощь при аварии, установка, ремонт сантехники и систем водоснабжения",
+            "category": "repair",
+            "subcategory": "repair_plumbing",
+            "bonuses_str": "Начислим 200 бонусов",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/santehnika/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Ремонт электрики",
+            "available": true,
+            "image": "https://i.postimg.cc/Qdn85VkF/23-repair-pipes.pngg",
+            "description": "Срочная помощь при аварии, диагностика, монтаж, дистанционная консультация",
+            "category": "repair",
+            "subcategory": "repair_electric",
+            "bonuses_str": "Начислим 200 бонусов",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/electromontajnye-raboty/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Сборка мебели",
+            "available": true,
+            "image": "https://i.postimg.cc/rprkrjwH/24-repair-electro.png",
+            "description": "Кроватка, комод, как детские, так и взрослые, и даже кухня",
+            "category": "repair",
+            "subcategory": "furniture_assembly",
+            "bonuses_str": "Начислим 200 бонусов",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/remont/mebel/sborka-mebeli/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Другой ремонт",
+            "available": true,
+            "image": "https://i.postimg.cc/prV4qJPR/25-repair-other.png",
+            "description": "Мелкий ремонт и все что еще может сломаться",
+            "category": "repair",
+            "subcategory": "repair_other",
+            "bonuses_str": "Начислим 200 бонусов",
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/raznoe/raznoe_other/?seamless=1&tabName=ORDER"
+          }
+        ]
       },
       {
         "title": "Репетиторы и логопеды",
@@ -200,11 +236,96 @@
         "text": null,
         "category": "tutor",
         "bonuses": 100,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
-        "type": "direct",
+        "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+        "type": "indirect",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
         "link": "https://kidsout.ru/search?city_id=1&date=20210127",
-        "items": null
+        "items": [
+          {
+            "title": "Логопед",
+            "available": true,
+            "image": "https://i.postimg.cc/mg1qXDWz/31-teachers-logo.png",
+            "description": "Постановка звуков и шипяших, логопедический массаж, коррекция речевого развития",
+            "category": "tutor",
+            "subcategory": "speech_therapist",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/repetitor/logoped/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Подготовка к школе",
+            "available": true,
+            "image": "https://i.postimg.cc/hjc5t1zT/32-teachers-deffect.png",
+            "description": "Обучение чтению, письму, счету по различным развивающим методикам",
+            "category": "tutor",
+            "subcategory": "preparation_for_school",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/repetitor/preschool/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Начальные классы",
+            "available": true,
+            "image": "https://i.postimg.cc/y6fb79V3/33-teachers-classes.png",
+            "description": "Повышение успеваемости, подготовка в ВПР",
+            "category": "tutor",
+            "subcategory": "elementary_school",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/repetitor/elementary/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Математика",
+            "available": true,
+            "image": "https://i.postimg.cc/65y1q33j/34-teachers-math.png",
+            "description": "С 1 по 11 класс, подготовка к ЕГЭ и ОГЭ, повышение успеваемости",
+            "category": "tutor",
+            "subcategory": "mathematics",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/repetitor/maths/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Английский",
+            "available": true,
+            "image": "https://i.postimg.cc/7ZS9JTyV/35-teachers-english.png",
+            "description": "Подготовка к ВПР, ЕГЭ, ОГЭ, олимпиадам или просто для себя",
+            "category": "tutor",
+            "subcategory": "english",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/repetitor/english/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Музыка",
+            "available": true,
+            "image": "https://i.postimg.cc/pXFY3nyH/36-teachers-music.png",
+            "description": "Освоение инструментов, постановка дыхания и голоса, подготовка к музыкальной школе",
+            "category": "tutor",
+            "subcategory": "music",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/repetitor/musical/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Другие предметы",
+            "available": true,
+            "image": "https://i.postimg.cc/wj55j8h4/37-teachers-other.png",
+            "description": "Химия, биология, история, школьная и внешкольная программа",
+            "category": "tutor",
+            "subcategory": "other_activities",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/repetitor/?seamless=1&tabName=ORDER"
+          }
+        ]
       },
       {
         "title": "Организовать день рождения",
@@ -212,17 +333,102 @@
         "text": null,
         "category": "birthday",
         "bonuses": null,
-        "webview_icon": "https://i.postimg.cc/W33RwbBv/image.png",
-        "type": "direct",
+        "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+        "type": "indirect",
         "image": "https://i.postimg.cc/W33RwbBv/image.png",
         "link": "https://kidsout.ru/search?city_id=1&date=20210127",
-        "items": null
+        "items": [
+          {
+            "title": "Пригласить аниматоров",
+            "available": true,
+            "image": "https://i.postimg.cc/MGW7cP56/41-birth-animators.png",
+            "description": "Подбор под ваши пожелания, с выездом домой или в место проведения",
+            "category": "birthday",
+            "subcategory": "artist",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/artist/circus/animators/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Организовать кейтеринг",
+            "available": true,
+            "image": "https://i.postimg.cc/4dypPYjj/42-birth-katering.png",
+            "description": "Доставка готовых блюд или выездное обслуживание",
+            "category": "birthday",
+            "subcategory": "catering",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/artist/detskii-keitering/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Надуть шарики гелием",
+            "available": true,
+            "image": "https://i.postimg.cc/0yvWfCn3/43-birth-helium.png",
+            "description": "Вызвать специалиста или приехать к нему самому",
+            "category": "birthday",
+            "subcategory": "balloon",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/artist/naduvanie-sharov-geliem/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Сделать аквагрим",
+            "available": true,
+            "image": "https://i.postimg.cc/YSndtB7K/44-birth-makeup.png",
+            "description": "Для тематической вечеринки, дня рождения или фотосессии",
+            "category": "birthday",
+            "subcategory": "makeup",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/krasota/make-up/akvagrim/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Фотограф",
+            "available": true,
+            "image": "https://i.postimg.cc/dtP4s9b1/45-birth-photo.png",
+            "description": "В студии или у вас дома. Печать и оформление альбомов",
+            "category": "birthday",
+            "subcategory": "photographer",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/krasota/fotograf-na-den-rozhdeniya/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Видеосъемка",
+            "available": true,
+            "image": "https://i.postimg.cc/xCN3YkgM/46-birth-video.png",
+            "description": "Разные види съемки,  монтаж, озвучка",
+            "category": "birthday",
+            "subcategory": "video",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/krasota/videosemka-detskih-prazdnikov/?seamless=1&tabName=ORDER"
+          },
+          {
+            "title": "Комплексная организация",
+            "available": true,
+            "image": "https://i.postimg.cc/ZnrPB1Gq/47-birth-all.png",
+            "description": "Мероприятие под ключ",
+            "category": "birthday",
+            "subcategory": "complex",
+            "bonuses_str": null,
+            "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
+            "type": "direct",
+            "link": "https://profi.ru/artist/organizaciya-detskogo-dnya-rozhdeniya/?seamless=1&tabName=ORDER"
+          }
+        ]
       }
     ]
   },
   "apps": {
     "info": {
-      "text": "Мы собрали и протестировали по-настоящему полезные приложения для родителей и самые интересные игры для детей",
+      "text": "Мы собрали по-настоящему интересные и полезные приложения для родителей и детей",
       "link": null
     },
     "franchises": [
