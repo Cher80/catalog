@@ -21,7 +21,7 @@
         "bonuses": 150,
         "webview_icon": "https://i.postimg.cc/ncCcLFZ0/Group-1132-1.png",
         "type": "direct",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/gcSby4Mf/posidet.png",
         "link": "https://kidsout.ru/search?city_id=1&date=20210127",
         "items": null
       },
@@ -34,7 +34,7 @@
         "bonuses": null,
         "webview_icon": "https://i.postimg.cc/ncCcLFZ0/Group-1132-1.png",
         "type": "direct",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/PJRGtrpt/online.png",
         "link": "https://kidsout.ru/search?city_id=1&date=20210127",
         "items": null
       },
@@ -47,8 +47,8 @@
         "bonuses": 50,
         "webview_icon": "https://i.postimg.cc/g2GpZGbC/Group-1136.png",
         "type": "direct",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
-        "link": "https://kidsout.ru/search?city_id=1&date=20210127",
+        "image": "https://i.postimg.cc/6pRsXK9X/pediatr.png",
+        "link": "https://dr-telemed.ru/babyworld/",
         "items": null
       },
       {
@@ -60,7 +60,7 @@
         "bonuses": 30,
         "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "direct",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/0QZRBC9K/cleaning.png",
         "link": "https://profi.ru/domashnii_personal/domrabotnica/?seamless=1&tabName=ORDER&siteId=4650&_prr=detmir&utm_source=detmir&utm_medium=cpa",
         "items": null
       },
@@ -73,7 +73,7 @@
         "bonuses": 500,
         "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "indirect",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/brJcc2vC/haircut.png",
         "link": null,
         "items": [
           {
@@ -159,7 +159,7 @@
         "bonuses": 100,
         "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "direct",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/zBqY7QY1/dog.png",
         "link": "https://profi.ru/domashnii_personal/domrabotnica/uhod-za-zhivotnymi/vygul-sobak/?seamless=1&tabName=ORDER&siteId=4650&_prr=detmir&utm_source=detmir&utm_medium=cpa",
         "items": null
       },
@@ -172,7 +172,7 @@
         "bonuses": 50,
         "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "indirect",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/pX3N4rMC/repair.png",
         "link": null,
         "items": [
           {
@@ -246,7 +246,7 @@
         "bonuses": 100,
         "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "indirect",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/4NYkWtqn/teachers.png",
         "link": null,
         "items": [
           {
@@ -343,7 +343,7 @@
         "bonuses": null,
         "webview_icon": "https://i.postimg.cc/4NQkZjHB/Group-1136-1.png",
         "type": "indirect",
-        "image": "https://i.postimg.cc/W33RwbBv/image.png",
+        "image": "https://i.postimg.cc/9fdjGhSp/birthday.png",
         "link": null,
         "items": [
           {
