@@ -13,17 +13,17 @@
     },
     "categories": [
       {
-        "title": "Посидеть с ребенком",
+        "title": "Педиатр онлайн",
         "available": true,
         "text": null,
-        "category": "babysitter",
-        "addUserData" : true,
+        "category": "online_med",
+        "addUserData" : false,
         "bonuses": null,
         "bonuses_str": null,
-        "webview_icon": "https://i.postimg.cc/ncCcLFZ0/Group-1132-1.png",
+        "webview_icon": "https://i.postimg.cc/g2GpZGbC/Group-1136.png",
         "type": "direct",
-        "image": "https://i.postimg.cc/gcSby4Mf/posidet.png",
-        "link": "https://kidsout.ru/internal/dmfindsitterapp/",
+        "image": "https://i.postimg.cc/6pRsXK9X/pediatr.png",
+        "link": "https://dr-telemed.ru/babyworld/",
         "items": null
       },
       {
@@ -41,17 +41,17 @@
         "items": null
       },
       {
-        "title": "Педиатр онлайн",
+        "title": "Посидеть с ребенком",
         "available": true,
         "text": null,
-        "category": "online_med",
-        "addUserData" : false,
+        "category": "babysitter",
+        "addUserData" : true,
         "bonuses": null,
         "bonuses_str": null,
-        "webview_icon": "https://i.postimg.cc/g2GpZGbC/Group-1136.png",
+        "webview_icon": "https://i.postimg.cc/ncCcLFZ0/Group-1132-1.png",
         "type": "direct",
-        "image": "https://i.postimg.cc/6pRsXK9X/pediatr.png",
-        "link": "https://dr-telemed.ru/babyworld/",
+        "image": "https://i.postimg.cc/gcSby4Mf/posidet.png",
+        "link": "https://kidsout.ru/internal/dmfindsitterapp/",
         "items": null
       },
       {
