@@ -55,6 +55,48 @@
         "items": null
       },
       {
+        "title": "Билеты в кино",
+        "available": true,
+        "text": null,
+        "category": "tickets",
+        "addUserData": false,
+        "bonuses": 50,
+        "bonuses_str": "до 50",
+        "webview_icon": null,
+        "type": "direct",
+        "image": "https://i.postimg.cc/d0csYtqq/tic.png",
+        "link": "https://app.detmir.ru/not_found",
+        "items": null
+      },
+      {
+        "title": "Готовая еда за 30 минут",
+        "available": true,
+        "text": null,
+        "category": "food",
+        "addUserData": false,
+        "bonuses": 50,
+        "bonuses_str": "до 50",
+        "webview_icon": null,
+        "type": "direct",
+        "image": "https://i.postimg.cc/hjywrpvX/food.png",
+        "link": "https://app.detmir.ru/not_found",
+        "items": null
+      },
+      {
+        "title": "Страхование",
+        "available": true,
+        "text": null,
+        "category": "insurance",
+        "addUserData": false,
+        "bonuses": 200,
+        "bonuses_str": "до 200",
+        "webview_icon": null,
+        "type": "direct",
+        "image": "https://i.postimg.cc/bNxv6t0z/insurance.png",
+        "link": "https://app.detmir.ru/not_found",
+        "items": null
+      },
+      {
         "title": "Помощь по дому",
         "available": true,
         "text": null,
